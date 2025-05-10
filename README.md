@@ -3,7 +3,7 @@
 Aliases e configurações personalizadas para meu ambiente Bash.
 
 ## 📂 Estrutura
-
+```shell
 📦 bash/
 ├── .bash_aliases  
 ├── .bashrc  
